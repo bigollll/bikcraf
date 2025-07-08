@@ -1,6 +1,7 @@
 @import "./global/global.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
+@import "./utilidades/animacao.css";
 
 @import "./global/header.css";
 @import "./global/footer.css";
@@ -30,7 +31,6 @@
 
 /* Termos */
 @import "./termos/termos.css";
-
 
 /* Contato */
 @import "./contato/contato.css";
